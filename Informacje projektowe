@@ -1,0 +1,6 @@
+Skład zespołu: Mateusz Trzebiński, Radosław Wasiluk, Filip Weselak
+Lider zespołu: Radosław Wasiluk
+Temat projektu: "Symulacja gry w karty: Aplikacja do gry w karty online, wykorzystująca Swing lub JavaFX do
+interfejsu. Komunikację między graczami obsługuje serwer centralny, który synchronizuje
+stan gry."
+Repozytorium wykorzystywane do stworzenia projektu: LWJGL
